@@ -3,9 +3,9 @@
 	"private": true,
 	"version": "1.0.0",
 	"author": {
-		"name": "Anson",
-		"email": "cj@jsszkd.com",
-		"url": "https://gitlab.jsszkd.com/kd-frontend/I-BRAIN-SCREEN-TEMPLATE"
+		"name": "关广强",
+		"email": "2223585058@qq.com",
+		"url": "https://github.com/supper-template"
 	},
 	"scripts": {
 		"dev": "vite --mode development",

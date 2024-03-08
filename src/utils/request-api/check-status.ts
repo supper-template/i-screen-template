@@ -3,7 +3,6 @@
  * @Date: 2022-05-07 23:54:19
  * @LastEditors: 关广强 2223585058@qq.com
  * @LastEditTime: 2023-11-25 15:34:27
- * @FilePath: /KD-KDPLUS-OPEN/src/utils/axios-http/check-status.ts
  * @Description: 异常处理
  */
 /**

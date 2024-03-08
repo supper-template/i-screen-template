@@ -3,7 +3,6 @@
  * @Date: 2023-11-25 13:53:56
  * @LastEditors: 关广强 2223585058@qq.com
  * @LastEditTime: 2023-11-25 14:31:30
- * @FilePath: /I-BRAIN-SCREEN-TEMPLATE/src/router/router.ts
  * @Description: 路由
  */
 export default [

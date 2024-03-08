@@ -3,7 +3,6 @@
  * @Date: 2023-04-14 20:28:41
  * @LastEditors: 关广强 2223585058@qq.com
  * @LastEditTime: 2023-11-25 15:32:17
- * @FilePath: /i-template/src/utils/request-api/index.ts
  * @Description: 基于axios的接口请求实现类
  */
 import Axios, { AxiosInstance, AxiosResponse, AxiosRequestConfig, AxiosError } from 'axios'

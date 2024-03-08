@@ -3,8 +3,6 @@
  * @Date: 2022-04-02 16:54:26
  * @LastEditTime: 2023-11-25 15:40:56
  * @LastEditors: 关广强 2223585058@qq.com
- * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
- * @FilePath: /main-app/src/utils/axios-http/types.ts
  */
 /**
  * 请求服务配置参数
